@@ -41,7 +41,7 @@
 </p>
 <p align="center" dir="auto">
 <a href="3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dynamitetechdev&repo=budget-app&theme=radical&hide_border=true&border_radius=10" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=Dynamitetechdev&label=PROFILE+VIEWS" />
 </a>
 </p>
-https://komarev.com/ghpvc/?username=Dynamitetechdev&label=PROFILE+VIEWS
+
