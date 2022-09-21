@@ -41,7 +41,7 @@
 </p>
 <p align="center" dir="auto">
 <a href="3">
-  <img align="left" src="https://komarev.com/ghpvc/?username=Dynamitetechdev&label=PROFILE+VIEWS" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=Dynamitetechdev&label=PROFILE+VIEWS" />
 </a>
 </p>
 
