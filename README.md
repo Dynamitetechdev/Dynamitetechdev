@@ -18,10 +18,10 @@
 <h1>My Streak🔥</h1>
   <p align="center" dir="auto">
     <a href="https://github.com/Dynamitetechdev/github-readme-stats">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Dynamitetechdev&show_icons=true&theme=radical&hide_border=true&border_radius=10" style="max-width: 100%;" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dynamitetechdev&show_icons=true&theme=radical&hide_border=true&border_radius=10" style="max-width: 100%;" />
 </a>
 <a href="">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamitetechdev&layout=compact&theme=radical&hide_border=true&border_radius=10" style="max-width: 100%;" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamitetechdev&layout=compact&theme=radical&hide_border=true&border_radius=10" style="max-width: 100%;" />
 </a>
   </p>
  
@@ -31,4 +31,17 @@
 </a>
   </p>
   
-
+<p align="center" dir="auto">
+  <a href="https://github.com/Dynamitetechdev/crypto-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dynamitetechdev&repo=crypto-app&theme=radical&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/github.com/Dynamitetechdev/budget-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dynamitetechdev&repo=budget-app&theme=radical&hide_border=true&border_radius=10" />
+</a>
+</p>
+<p align="center" dir="auto">
+<a href="3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dynamitetechdev&repo=budget-app&theme=radical&hide_border=true&border_radius=10" />
+</a>
+</p>
+https://komarev.com/ghpvc/?username=Dynamitetechdev&label=PROFILE+VIEWS
