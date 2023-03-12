@@ -32,8 +32,8 @@
   </p>
   
 <p align="center" dir="auto">
-  <a href="https://github.com/Dynamitetechdev/crypto-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dynamitetechdev&repo=crypto-app&theme=radical&hide_border=true&border_radius=10" />
+  <a href="https://github.com/Dynamitetechdev/nft-market-self">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dynamitetechdev&repo=nft-market-self&theme=radical&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/Dynamitetechdev/blockchain-projects-beginner-to-intermediate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dynamitetechdev&repo=blockchain-projects-beginner-to-intermediate&theme=radical&hide_border=true&border_radius=10" />
