@@ -1,6 +1,6 @@
 <h1>Hello, I'm Dynamite 👋 💻</h1>
 <img src="https://user-images.githubusercontent.com/92023844/191395824-9b384134-c819-4bde-9a57-37ea612d6bb6.png">
-<p>I Build OnWeb && OnChain. I write articles📃 and play games too 🎮⚡</p>
+<p>I Build OnWeb && OnChain. Just Want To Get Better</p>
 
 <h1>My Tech Stack💻</h1>
 <p dir="auto">
